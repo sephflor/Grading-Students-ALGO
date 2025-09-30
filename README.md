@@ -1,1 +1,1 @@
-# Grading-Students-ALGO
+# Grading-Students-ALGO.This program adjusts student grades by rounding them up to the next multiple of 5 if the grade is at least 38 and within 3 points of that multiple; otherwise, the grade stays the same.
